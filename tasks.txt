@@ -1,0 +1,5 @@
+Create userinterface
+Create database schema
+Create model and view
+Report when done
+After this start project documetation
